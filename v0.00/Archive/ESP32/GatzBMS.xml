@@ -1,0 +1,4125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>D:\Stack\HobbyTechniek\Projecten\BMS\1\Hardware\GatzBMS\GatzBMS.sch</source>
+    <date>28/04/2021 12:18:02</date>
+    <tool>Eeschema (5.1.9)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>GatzBMS.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Balance1/" tstamps="/607B2503/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Balance.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Balance2/" tstamps="/6084D2D8/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Balance.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Balance3/" tstamps="/608541DB/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Balance.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Balance4/" tstamps="/6085B0D6/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Balance.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Balance5/" tstamps="/60861FC9/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Balance.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Balance6/" tstamps="/60868FC4/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Balance.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/Balance7/" tstamps="/6086FEFF/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Balance.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/Balance8/" tstamps="/60876DFE/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Balance.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/Balance9/" tstamps="/6087DCE1/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Balance.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/Balance10/" tstamps="/60884BDC/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Balance.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="12" name="/VoltageMeasurement/" tstamps="/607EE2C2/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>VoltageMeasurement.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="13" name="/Microcontroller/" tstamps="/608367CF/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Microcontroller.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="14" name="/BatteryPowerControl/" tstamps="/60847557/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BatteryPowerControl.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J101">
+      <value>Conn_01x11</value>
+      <footprint>Connector_JST:JST_PH_S11B-PH-K_1x11_P2.00mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x11" description="Generic connector, single row, 01x11, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6080F4F2</tstamp>
+    </comp>
+    <comp ref="D201">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Balance1/" tstamps="/607B2503/"/>
+      <tstamp>607B8FF1</tstamp>
+    </comp>
+    <comp ref="R205">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance1/" tstamps="/607B2503/"/>
+      <tstamp>607B8FF7</tstamp>
+    </comp>
+    <comp ref="R206">
+      <value>47K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance1/" tstamps="/607B2503/"/>
+      <tstamp>607B9001</tstamp>
+    </comp>
+    <comp ref="R204">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance1/" tstamps="/607B2503/"/>
+      <tstamp>607B9007</tstamp>
+    </comp>
+    <comp ref="Q202">
+      <value>IRLML6244TRPBF</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Nr.">161189</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="DMG2302U" description="4.2A Id, 20V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Balance1/" tstamps="/607B2503/"/>
+      <tstamp>607B900F</tstamp>
+    </comp>
+    <comp ref="R203">
+      <value>620</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance1/" tstamps="/607B2503/"/>
+      <tstamp>607B901B</tstamp>
+    </comp>
+    <comp ref="Q201">
+      <value>BC847</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC847" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <sheetpath names="/Balance1/" tstamps="/607B2503/"/>
+      <tstamp>607B9021</tstamp>
+    </comp>
+    <comp ref="C202">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balance1/" tstamps="/607B2503/"/>
+      <tstamp>607B9027</tstamp>
+    </comp>
+    <comp ref="C201">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balance1/" tstamps="/607B2503/"/>
+      <tstamp>607B902E</tstamp>
+    </comp>
+    <comp ref="R207">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance1/" tstamps="/607B2503/"/>
+      <tstamp>607B9054</tstamp>
+    </comp>
+    <comp ref="R209">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance1/" tstamps="/607B2503/"/>
+      <tstamp>607B9060</tstamp>
+    </comp>
+    <comp ref="R208">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance1/" tstamps="/607B2503/"/>
+      <tstamp>607B9068</tstamp>
+    </comp>
+    <comp ref="R210">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance1/" tstamps="/607B2503/"/>
+      <tstamp>607B9072</tstamp>
+    </comp>
+    <comp ref="U201">
+      <value>PC817</value>
+      <footprint>Package_DIP:SMDIP-4_W9.53mm_Clearance8mm</footprint>
+      <datasheet>http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">140234</field>
+      </fields>
+      <libsource lib="Isolator" part="PC817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
+      <sheetpath names="/Balance1/" tstamps="/607B2503/"/>
+      <tstamp>607B907F</tstamp>
+    </comp>
+    <comp ref="R202">
+      <value>22K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance1/" tstamps="/607B2503/"/>
+      <tstamp>607B9088</tstamp>
+    </comp>
+    <comp ref="R201">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance1/" tstamps="/607B2503/"/>
+      <tstamp>607B908E</tstamp>
+    </comp>
+    <comp ref="D301">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Balance2/" tstamps="/6084D2D8/"/>
+      <tstamp>607B8FF1</tstamp>
+    </comp>
+    <comp ref="R305">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance2/" tstamps="/6084D2D8/"/>
+      <tstamp>607B8FF7</tstamp>
+    </comp>
+    <comp ref="R306">
+      <value>47K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance2/" tstamps="/6084D2D8/"/>
+      <tstamp>607B9001</tstamp>
+    </comp>
+    <comp ref="R304">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance2/" tstamps="/6084D2D8/"/>
+      <tstamp>607B9007</tstamp>
+    </comp>
+    <comp ref="Q302">
+      <value>IRLML6244TRPBF</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Nr.">161189</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="DMG2302U" description="4.2A Id, 20V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Balance2/" tstamps="/6084D2D8/"/>
+      <tstamp>607B900F</tstamp>
+    </comp>
+    <comp ref="R303">
+      <value>620</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance2/" tstamps="/6084D2D8/"/>
+      <tstamp>607B901B</tstamp>
+    </comp>
+    <comp ref="Q301">
+      <value>BC847</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC847" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <sheetpath names="/Balance2/" tstamps="/6084D2D8/"/>
+      <tstamp>607B9021</tstamp>
+    </comp>
+    <comp ref="C302">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balance2/" tstamps="/6084D2D8/"/>
+      <tstamp>607B9027</tstamp>
+    </comp>
+    <comp ref="C301">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balance2/" tstamps="/6084D2D8/"/>
+      <tstamp>607B902E</tstamp>
+    </comp>
+    <comp ref="R307">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance2/" tstamps="/6084D2D8/"/>
+      <tstamp>607B9054</tstamp>
+    </comp>
+    <comp ref="R309">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance2/" tstamps="/6084D2D8/"/>
+      <tstamp>607B9060</tstamp>
+    </comp>
+    <comp ref="R308">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance2/" tstamps="/6084D2D8/"/>
+      <tstamp>607B9068</tstamp>
+    </comp>
+    <comp ref="R310">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance2/" tstamps="/6084D2D8/"/>
+      <tstamp>607B9072</tstamp>
+    </comp>
+    <comp ref="U301">
+      <value>PC817</value>
+      <footprint>Package_DIP:SMDIP-4_W9.53mm_Clearance8mm</footprint>
+      <datasheet>http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">140234</field>
+      </fields>
+      <libsource lib="Isolator" part="PC817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
+      <sheetpath names="/Balance2/" tstamps="/6084D2D8/"/>
+      <tstamp>607B907F</tstamp>
+    </comp>
+    <comp ref="R302">
+      <value>22K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance2/" tstamps="/6084D2D8/"/>
+      <tstamp>607B9088</tstamp>
+    </comp>
+    <comp ref="R301">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance2/" tstamps="/6084D2D8/"/>
+      <tstamp>607B908E</tstamp>
+    </comp>
+    <comp ref="D401">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Balance3/" tstamps="/608541DB/"/>
+      <tstamp>607B8FF1</tstamp>
+    </comp>
+    <comp ref="R405">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance3/" tstamps="/608541DB/"/>
+      <tstamp>607B8FF7</tstamp>
+    </comp>
+    <comp ref="R406">
+      <value>47K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance3/" tstamps="/608541DB/"/>
+      <tstamp>607B9001</tstamp>
+    </comp>
+    <comp ref="R404">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance3/" tstamps="/608541DB/"/>
+      <tstamp>607B9007</tstamp>
+    </comp>
+    <comp ref="Q402">
+      <value>IRLML6244TRPBF</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Nr.">161189</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="DMG2302U" description="4.2A Id, 20V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Balance3/" tstamps="/608541DB/"/>
+      <tstamp>607B900F</tstamp>
+    </comp>
+    <comp ref="R403">
+      <value>620</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance3/" tstamps="/608541DB/"/>
+      <tstamp>607B901B</tstamp>
+    </comp>
+    <comp ref="Q401">
+      <value>BC847</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC847" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <sheetpath names="/Balance3/" tstamps="/608541DB/"/>
+      <tstamp>607B9021</tstamp>
+    </comp>
+    <comp ref="C402">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balance3/" tstamps="/608541DB/"/>
+      <tstamp>607B9027</tstamp>
+    </comp>
+    <comp ref="C401">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balance3/" tstamps="/608541DB/"/>
+      <tstamp>607B902E</tstamp>
+    </comp>
+    <comp ref="R407">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance3/" tstamps="/608541DB/"/>
+      <tstamp>607B9054</tstamp>
+    </comp>
+    <comp ref="R409">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance3/" tstamps="/608541DB/"/>
+      <tstamp>607B9060</tstamp>
+    </comp>
+    <comp ref="R408">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance3/" tstamps="/608541DB/"/>
+      <tstamp>607B9068</tstamp>
+    </comp>
+    <comp ref="R410">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance3/" tstamps="/608541DB/"/>
+      <tstamp>607B9072</tstamp>
+    </comp>
+    <comp ref="U401">
+      <value>PC817</value>
+      <footprint>Package_DIP:SMDIP-4_W9.53mm_Clearance8mm</footprint>
+      <datasheet>http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">140234</field>
+      </fields>
+      <libsource lib="Isolator" part="PC817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
+      <sheetpath names="/Balance3/" tstamps="/608541DB/"/>
+      <tstamp>607B907F</tstamp>
+    </comp>
+    <comp ref="R402">
+      <value>22K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance3/" tstamps="/608541DB/"/>
+      <tstamp>607B9088</tstamp>
+    </comp>
+    <comp ref="R401">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance3/" tstamps="/608541DB/"/>
+      <tstamp>607B908E</tstamp>
+    </comp>
+    <comp ref="D501">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Balance4/" tstamps="/6085B0D6/"/>
+      <tstamp>607B8FF1</tstamp>
+    </comp>
+    <comp ref="R505">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance4/" tstamps="/6085B0D6/"/>
+      <tstamp>607B8FF7</tstamp>
+    </comp>
+    <comp ref="R506">
+      <value>47K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance4/" tstamps="/6085B0D6/"/>
+      <tstamp>607B9001</tstamp>
+    </comp>
+    <comp ref="R504">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance4/" tstamps="/6085B0D6/"/>
+      <tstamp>607B9007</tstamp>
+    </comp>
+    <comp ref="Q502">
+      <value>IRLML6244TRPBF</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Nr.">161189</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="DMG2302U" description="4.2A Id, 20V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Balance4/" tstamps="/6085B0D6/"/>
+      <tstamp>607B900F</tstamp>
+    </comp>
+    <comp ref="R503">
+      <value>620</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance4/" tstamps="/6085B0D6/"/>
+      <tstamp>607B901B</tstamp>
+    </comp>
+    <comp ref="Q501">
+      <value>BC847</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC847" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <sheetpath names="/Balance4/" tstamps="/6085B0D6/"/>
+      <tstamp>607B9021</tstamp>
+    </comp>
+    <comp ref="C502">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balance4/" tstamps="/6085B0D6/"/>
+      <tstamp>607B9027</tstamp>
+    </comp>
+    <comp ref="C501">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balance4/" tstamps="/6085B0D6/"/>
+      <tstamp>607B902E</tstamp>
+    </comp>
+    <comp ref="R507">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance4/" tstamps="/6085B0D6/"/>
+      <tstamp>607B9054</tstamp>
+    </comp>
+    <comp ref="R509">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance4/" tstamps="/6085B0D6/"/>
+      <tstamp>607B9060</tstamp>
+    </comp>
+    <comp ref="R508">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance4/" tstamps="/6085B0D6/"/>
+      <tstamp>607B9068</tstamp>
+    </comp>
+    <comp ref="R510">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance4/" tstamps="/6085B0D6/"/>
+      <tstamp>607B9072</tstamp>
+    </comp>
+    <comp ref="U501">
+      <value>PC817</value>
+      <footprint>Package_DIP:SMDIP-4_W9.53mm_Clearance8mm</footprint>
+      <datasheet>http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">140234</field>
+      </fields>
+      <libsource lib="Isolator" part="PC817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
+      <sheetpath names="/Balance4/" tstamps="/6085B0D6/"/>
+      <tstamp>607B907F</tstamp>
+    </comp>
+    <comp ref="R502">
+      <value>22K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance4/" tstamps="/6085B0D6/"/>
+      <tstamp>607B9088</tstamp>
+    </comp>
+    <comp ref="R501">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance4/" tstamps="/6085B0D6/"/>
+      <tstamp>607B908E</tstamp>
+    </comp>
+    <comp ref="D601">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Balance5/" tstamps="/60861FC9/"/>
+      <tstamp>607B8FF1</tstamp>
+    </comp>
+    <comp ref="R605">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance5/" tstamps="/60861FC9/"/>
+      <tstamp>607B8FF7</tstamp>
+    </comp>
+    <comp ref="R606">
+      <value>47K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance5/" tstamps="/60861FC9/"/>
+      <tstamp>607B9001</tstamp>
+    </comp>
+    <comp ref="R604">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance5/" tstamps="/60861FC9/"/>
+      <tstamp>607B9007</tstamp>
+    </comp>
+    <comp ref="Q602">
+      <value>IRLML6244TRPBF</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Nr.">161189</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="DMG2302U" description="4.2A Id, 20V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Balance5/" tstamps="/60861FC9/"/>
+      <tstamp>607B900F</tstamp>
+    </comp>
+    <comp ref="R603">
+      <value>620</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance5/" tstamps="/60861FC9/"/>
+      <tstamp>607B901B</tstamp>
+    </comp>
+    <comp ref="Q601">
+      <value>BC847</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC847" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <sheetpath names="/Balance5/" tstamps="/60861FC9/"/>
+      <tstamp>607B9021</tstamp>
+    </comp>
+    <comp ref="C602">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balance5/" tstamps="/60861FC9/"/>
+      <tstamp>607B9027</tstamp>
+    </comp>
+    <comp ref="C601">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balance5/" tstamps="/60861FC9/"/>
+      <tstamp>607B902E</tstamp>
+    </comp>
+    <comp ref="R607">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance5/" tstamps="/60861FC9/"/>
+      <tstamp>607B9054</tstamp>
+    </comp>
+    <comp ref="R609">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance5/" tstamps="/60861FC9/"/>
+      <tstamp>607B9060</tstamp>
+    </comp>
+    <comp ref="R608">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance5/" tstamps="/60861FC9/"/>
+      <tstamp>607B9068</tstamp>
+    </comp>
+    <comp ref="R610">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance5/" tstamps="/60861FC9/"/>
+      <tstamp>607B9072</tstamp>
+    </comp>
+    <comp ref="U601">
+      <value>PC817</value>
+      <footprint>Package_DIP:SMDIP-4_W9.53mm_Clearance8mm</footprint>
+      <datasheet>http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">140234</field>
+      </fields>
+      <libsource lib="Isolator" part="PC817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
+      <sheetpath names="/Balance5/" tstamps="/60861FC9/"/>
+      <tstamp>607B907F</tstamp>
+    </comp>
+    <comp ref="R602">
+      <value>22K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance5/" tstamps="/60861FC9/"/>
+      <tstamp>607B9088</tstamp>
+    </comp>
+    <comp ref="R601">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance5/" tstamps="/60861FC9/"/>
+      <tstamp>607B908E</tstamp>
+    </comp>
+    <comp ref="D701">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Balance6/" tstamps="/60868FC4/"/>
+      <tstamp>607B8FF1</tstamp>
+    </comp>
+    <comp ref="R705">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance6/" tstamps="/60868FC4/"/>
+      <tstamp>607B8FF7</tstamp>
+    </comp>
+    <comp ref="R706">
+      <value>47K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance6/" tstamps="/60868FC4/"/>
+      <tstamp>607B9001</tstamp>
+    </comp>
+    <comp ref="R704">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance6/" tstamps="/60868FC4/"/>
+      <tstamp>607B9007</tstamp>
+    </comp>
+    <comp ref="Q702">
+      <value>IRLML6244TRPBF</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Nr.">161189</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="DMG2302U" description="4.2A Id, 20V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Balance6/" tstamps="/60868FC4/"/>
+      <tstamp>607B900F</tstamp>
+    </comp>
+    <comp ref="R703">
+      <value>620</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance6/" tstamps="/60868FC4/"/>
+      <tstamp>607B901B</tstamp>
+    </comp>
+    <comp ref="Q701">
+      <value>BC847</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC847" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <sheetpath names="/Balance6/" tstamps="/60868FC4/"/>
+      <tstamp>607B9021</tstamp>
+    </comp>
+    <comp ref="C702">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balance6/" tstamps="/60868FC4/"/>
+      <tstamp>607B9027</tstamp>
+    </comp>
+    <comp ref="C701">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balance6/" tstamps="/60868FC4/"/>
+      <tstamp>607B902E</tstamp>
+    </comp>
+    <comp ref="R707">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance6/" tstamps="/60868FC4/"/>
+      <tstamp>607B9054</tstamp>
+    </comp>
+    <comp ref="R709">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance6/" tstamps="/60868FC4/"/>
+      <tstamp>607B9060</tstamp>
+    </comp>
+    <comp ref="R708">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance6/" tstamps="/60868FC4/"/>
+      <tstamp>607B9068</tstamp>
+    </comp>
+    <comp ref="R710">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance6/" tstamps="/60868FC4/"/>
+      <tstamp>607B9072</tstamp>
+    </comp>
+    <comp ref="U701">
+      <value>PC817</value>
+      <footprint>Package_DIP:SMDIP-4_W9.53mm_Clearance8mm</footprint>
+      <datasheet>http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">140234</field>
+      </fields>
+      <libsource lib="Isolator" part="PC817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
+      <sheetpath names="/Balance6/" tstamps="/60868FC4/"/>
+      <tstamp>607B907F</tstamp>
+    </comp>
+    <comp ref="R702">
+      <value>22K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance6/" tstamps="/60868FC4/"/>
+      <tstamp>607B9088</tstamp>
+    </comp>
+    <comp ref="R701">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance6/" tstamps="/60868FC4/"/>
+      <tstamp>607B908E</tstamp>
+    </comp>
+    <comp ref="D801">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Balance7/" tstamps="/6086FEFF/"/>
+      <tstamp>607B8FF1</tstamp>
+    </comp>
+    <comp ref="R805">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance7/" tstamps="/6086FEFF/"/>
+      <tstamp>607B8FF7</tstamp>
+    </comp>
+    <comp ref="R806">
+      <value>47K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance7/" tstamps="/6086FEFF/"/>
+      <tstamp>607B9001</tstamp>
+    </comp>
+    <comp ref="R804">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance7/" tstamps="/6086FEFF/"/>
+      <tstamp>607B9007</tstamp>
+    </comp>
+    <comp ref="Q802">
+      <value>IRLML6244TRPBF</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Nr.">161189</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="DMG2302U" description="4.2A Id, 20V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Balance7/" tstamps="/6086FEFF/"/>
+      <tstamp>607B900F</tstamp>
+    </comp>
+    <comp ref="R803">
+      <value>620</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance7/" tstamps="/6086FEFF/"/>
+      <tstamp>607B901B</tstamp>
+    </comp>
+    <comp ref="Q801">
+      <value>BC847</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC847" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <sheetpath names="/Balance7/" tstamps="/6086FEFF/"/>
+      <tstamp>607B9021</tstamp>
+    </comp>
+    <comp ref="C802">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balance7/" tstamps="/6086FEFF/"/>
+      <tstamp>607B9027</tstamp>
+    </comp>
+    <comp ref="C801">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balance7/" tstamps="/6086FEFF/"/>
+      <tstamp>607B902E</tstamp>
+    </comp>
+    <comp ref="R807">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance7/" tstamps="/6086FEFF/"/>
+      <tstamp>607B9054</tstamp>
+    </comp>
+    <comp ref="R809">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance7/" tstamps="/6086FEFF/"/>
+      <tstamp>607B9060</tstamp>
+    </comp>
+    <comp ref="R808">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance7/" tstamps="/6086FEFF/"/>
+      <tstamp>607B9068</tstamp>
+    </comp>
+    <comp ref="R810">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance7/" tstamps="/6086FEFF/"/>
+      <tstamp>607B9072</tstamp>
+    </comp>
+    <comp ref="U801">
+      <value>PC817</value>
+      <footprint>Package_DIP:SMDIP-4_W9.53mm_Clearance8mm</footprint>
+      <datasheet>http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">140234</field>
+      </fields>
+      <libsource lib="Isolator" part="PC817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
+      <sheetpath names="/Balance7/" tstamps="/6086FEFF/"/>
+      <tstamp>607B907F</tstamp>
+    </comp>
+    <comp ref="R802">
+      <value>22K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance7/" tstamps="/6086FEFF/"/>
+      <tstamp>607B9088</tstamp>
+    </comp>
+    <comp ref="R801">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance7/" tstamps="/6086FEFF/"/>
+      <tstamp>607B908E</tstamp>
+    </comp>
+    <comp ref="D901">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Balance8/" tstamps="/60876DFE/"/>
+      <tstamp>607B8FF1</tstamp>
+    </comp>
+    <comp ref="R905">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance8/" tstamps="/60876DFE/"/>
+      <tstamp>607B8FF7</tstamp>
+    </comp>
+    <comp ref="R906">
+      <value>47K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance8/" tstamps="/60876DFE/"/>
+      <tstamp>607B9001</tstamp>
+    </comp>
+    <comp ref="R904">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance8/" tstamps="/60876DFE/"/>
+      <tstamp>607B9007</tstamp>
+    </comp>
+    <comp ref="Q902">
+      <value>IRLML6244TRPBF</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Nr.">161189</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="DMG2302U" description="4.2A Id, 20V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Balance8/" tstamps="/60876DFE/"/>
+      <tstamp>607B900F</tstamp>
+    </comp>
+    <comp ref="R903">
+      <value>620</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance8/" tstamps="/60876DFE/"/>
+      <tstamp>607B901B</tstamp>
+    </comp>
+    <comp ref="Q901">
+      <value>BC847</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC847" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <sheetpath names="/Balance8/" tstamps="/60876DFE/"/>
+      <tstamp>607B9021</tstamp>
+    </comp>
+    <comp ref="C902">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balance8/" tstamps="/60876DFE/"/>
+      <tstamp>607B9027</tstamp>
+    </comp>
+    <comp ref="C901">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balance8/" tstamps="/60876DFE/"/>
+      <tstamp>607B902E</tstamp>
+    </comp>
+    <comp ref="R907">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance8/" tstamps="/60876DFE/"/>
+      <tstamp>607B9054</tstamp>
+    </comp>
+    <comp ref="R909">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance8/" tstamps="/60876DFE/"/>
+      <tstamp>607B9060</tstamp>
+    </comp>
+    <comp ref="R908">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance8/" tstamps="/60876DFE/"/>
+      <tstamp>607B9068</tstamp>
+    </comp>
+    <comp ref="R910">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance8/" tstamps="/60876DFE/"/>
+      <tstamp>607B9072</tstamp>
+    </comp>
+    <comp ref="U901">
+      <value>PC817</value>
+      <footprint>Package_DIP:SMDIP-4_W9.53mm_Clearance8mm</footprint>
+      <datasheet>http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">140234</field>
+      </fields>
+      <libsource lib="Isolator" part="PC817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
+      <sheetpath names="/Balance8/" tstamps="/60876DFE/"/>
+      <tstamp>607B907F</tstamp>
+    </comp>
+    <comp ref="R902">
+      <value>22K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance8/" tstamps="/60876DFE/"/>
+      <tstamp>607B9088</tstamp>
+    </comp>
+    <comp ref="R901">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance8/" tstamps="/60876DFE/"/>
+      <tstamp>607B908E</tstamp>
+    </comp>
+    <comp ref="D1001">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Balance9/" tstamps="/6087DCE1/"/>
+      <tstamp>607B8FF1</tstamp>
+    </comp>
+    <comp ref="R1005">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance9/" tstamps="/6087DCE1/"/>
+      <tstamp>607B8FF7</tstamp>
+    </comp>
+    <comp ref="R1006">
+      <value>47K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance9/" tstamps="/6087DCE1/"/>
+      <tstamp>607B9001</tstamp>
+    </comp>
+    <comp ref="R1004">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance9/" tstamps="/6087DCE1/"/>
+      <tstamp>607B9007</tstamp>
+    </comp>
+    <comp ref="Q1002">
+      <value>IRLML6244TRPBF</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Nr.">161189</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="DMG2302U" description="4.2A Id, 20V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Balance9/" tstamps="/6087DCE1/"/>
+      <tstamp>607B900F</tstamp>
+    </comp>
+    <comp ref="R1003">
+      <value>620</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance9/" tstamps="/6087DCE1/"/>
+      <tstamp>607B901B</tstamp>
+    </comp>
+    <comp ref="Q1001">
+      <value>BC847</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC847" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <sheetpath names="/Balance9/" tstamps="/6087DCE1/"/>
+      <tstamp>607B9021</tstamp>
+    </comp>
+    <comp ref="C1002">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balance9/" tstamps="/6087DCE1/"/>
+      <tstamp>607B9027</tstamp>
+    </comp>
+    <comp ref="C1001">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balance9/" tstamps="/6087DCE1/"/>
+      <tstamp>607B902E</tstamp>
+    </comp>
+    <comp ref="R1007">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance9/" tstamps="/6087DCE1/"/>
+      <tstamp>607B9054</tstamp>
+    </comp>
+    <comp ref="R1009">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance9/" tstamps="/6087DCE1/"/>
+      <tstamp>607B9060</tstamp>
+    </comp>
+    <comp ref="R1008">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance9/" tstamps="/6087DCE1/"/>
+      <tstamp>607B9068</tstamp>
+    </comp>
+    <comp ref="R1010">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance9/" tstamps="/6087DCE1/"/>
+      <tstamp>607B9072</tstamp>
+    </comp>
+    <comp ref="U1001">
+      <value>PC817</value>
+      <footprint>Package_DIP:SMDIP-4_W9.53mm_Clearance8mm</footprint>
+      <datasheet>http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">140234</field>
+      </fields>
+      <libsource lib="Isolator" part="PC817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
+      <sheetpath names="/Balance9/" tstamps="/6087DCE1/"/>
+      <tstamp>607B907F</tstamp>
+    </comp>
+    <comp ref="R1002">
+      <value>22K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance9/" tstamps="/6087DCE1/"/>
+      <tstamp>607B9088</tstamp>
+    </comp>
+    <comp ref="R1001">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance9/" tstamps="/6087DCE1/"/>
+      <tstamp>607B908E</tstamp>
+    </comp>
+    <comp ref="D1101">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Balance10/" tstamps="/60884BDC/"/>
+      <tstamp>607B8FF1</tstamp>
+    </comp>
+    <comp ref="R1105">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance10/" tstamps="/60884BDC/"/>
+      <tstamp>607B8FF7</tstamp>
+    </comp>
+    <comp ref="R1106">
+      <value>47K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance10/" tstamps="/60884BDC/"/>
+      <tstamp>607B9001</tstamp>
+    </comp>
+    <comp ref="R1104">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance10/" tstamps="/60884BDC/"/>
+      <tstamp>607B9007</tstamp>
+    </comp>
+    <comp ref="Q1102">
+      <value>IRLML6244TRPBF</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Nr.">161189</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="DMG2302U" description="4.2A Id, 20V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/Balance10/" tstamps="/60884BDC/"/>
+      <tstamp>607B900F</tstamp>
+    </comp>
+    <comp ref="R1103">
+      <value>620</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance10/" tstamps="/60884BDC/"/>
+      <tstamp>607B901B</tstamp>
+    </comp>
+    <comp ref="Q1101">
+      <value>BC847</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC847" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <sheetpath names="/Balance10/" tstamps="/60884BDC/"/>
+      <tstamp>607B9021</tstamp>
+    </comp>
+    <comp ref="C1102">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balance10/" tstamps="/60884BDC/"/>
+      <tstamp>607B9027</tstamp>
+    </comp>
+    <comp ref="C1101">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balance10/" tstamps="/60884BDC/"/>
+      <tstamp>607B902E</tstamp>
+    </comp>
+    <comp ref="R1107">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance10/" tstamps="/60884BDC/"/>
+      <tstamp>607B9054</tstamp>
+    </comp>
+    <comp ref="R1109">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance10/" tstamps="/60884BDC/"/>
+      <tstamp>607B9060</tstamp>
+    </comp>
+    <comp ref="R1108">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance10/" tstamps="/60884BDC/"/>
+      <tstamp>607B9068</tstamp>
+    </comp>
+    <comp ref="R1110">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">443148</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance10/" tstamps="/60884BDC/"/>
+      <tstamp>607B9072</tstamp>
+    </comp>
+    <comp ref="U1101">
+      <value>PC817</value>
+      <footprint>Package_DIP:SMDIP-4_W9.53mm_Clearance8mm</footprint>
+      <datasheet>http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">140234</field>
+      </fields>
+      <libsource lib="Isolator" part="PC817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
+      <sheetpath names="/Balance10/" tstamps="/60884BDC/"/>
+      <tstamp>607B907F</tstamp>
+    </comp>
+    <comp ref="R1102">
+      <value>22K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance10/" tstamps="/60884BDC/"/>
+      <tstamp>607B9088</tstamp>
+    </comp>
+    <comp ref="R1101">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Balance10/" tstamps="/60884BDC/"/>
+      <tstamp>607B908E</tstamp>
+    </comp>
+    <comp ref="C1307">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>6081422B</tstamp>
+    </comp>
+    <comp ref="R1314">
+      <value>15K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>60814237</tstamp>
+    </comp>
+    <comp ref="R1313">
+      <value>82K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>6081423D</tstamp>
+    </comp>
+    <comp ref="C1305">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>6081424D</tstamp>
+    </comp>
+    <comp ref="R1310">
+      <value>20K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>60814259</tstamp>
+    </comp>
+    <comp ref="R1309">
+      <value>82K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>6081425F</tstamp>
+    </comp>
+    <comp ref="C1303">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>60814271</tstamp>
+    </comp>
+    <comp ref="R1306">
+      <value>30K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>6081427D</tstamp>
+    </comp>
+    <comp ref="R1305">
+      <value>68K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>60814283</tstamp>
+    </comp>
+    <comp ref="C1301">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>60814295</tstamp>
+    </comp>
+    <comp ref="R1302">
+      <value>62K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>608142A1</tstamp>
+    </comp>
+    <comp ref="R1301">
+      <value>39K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>608142A7</tstamp>
+    </comp>
+    <comp ref="C1309">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>608142B9</tstamp>
+    </comp>
+    <comp ref="R1318">
+      <value>12K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>608142C5</tstamp>
+    </comp>
+    <comp ref="R1317">
+      <value>91K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>608142CB</tstamp>
+    </comp>
+    <comp ref="C1310">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>608142DD</tstamp>
+    </comp>
+    <comp ref="R1320">
+      <value>6K2</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>608142E9</tstamp>
+    </comp>
+    <comp ref="R1319">
+      <value>91K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>608142EF</tstamp>
+    </comp>
+    <comp ref="C1308">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>60814301</tstamp>
+    </comp>
+    <comp ref="R1316">
+      <value>6K8</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>6081430D</tstamp>
+    </comp>
+    <comp ref="R1315">
+      <value>91K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>60814313</tstamp>
+    </comp>
+    <comp ref="C1306">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>60814325</tstamp>
+    </comp>
+    <comp ref="R1312">
+      <value>7K5</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>60814331</tstamp>
+    </comp>
+    <comp ref="R1311">
+      <value>91K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>60814337</tstamp>
+    </comp>
+    <comp ref="C1304">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>60814349</tstamp>
+    </comp>
+    <comp ref="R1308">
+      <value>8K2</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>60814355</tstamp>
+    </comp>
+    <comp ref="R1307">
+      <value>91K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>6081435B</tstamp>
+    </comp>
+    <comp ref="C1302">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>60814367</tstamp>
+    </comp>
+    <comp ref="R1304">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>60814379</tstamp>
+    </comp>
+    <comp ref="R1303">
+      <value>91K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/VoltageMeasurement/" tstamps="/607EE2C2/"/>
+      <tstamp>6081437F</tstamp>
+    </comp>
+    <comp ref="D1401">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>6087F09B</tstamp>
+    </comp>
+    <comp ref="R1401">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>6087F0A1</tstamp>
+    </comp>
+    <comp ref="U1403">
+      <value>74HC4051</value>
+      <footprint>Package_SO:SO-16_3.9x9.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/cd74hc4051.pdf</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">144444</field>
+      </fields>
+      <libsource lib="74xx" part="74HC4051" description="8-channel analog multiplexer/demultiplexer, DIP-16/SOIC-16/TSSOP-16"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>60884C7D</tstamp>
+    </comp>
+    <comp ref="C1413">
+      <value>100N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>6088C525</tstamp>
+    </comp>
+    <comp ref="R1403">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>608A1BEA</tstamp>
+    </comp>
+    <comp ref="R1404">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>608A225D</tstamp>
+    </comp>
+    <comp ref="R1405">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>608A250D</tstamp>
+    </comp>
+    <comp ref="D1301">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>6088CB06</tstamp>
+    </comp>
+    <comp ref="R1330">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>6088CB0C</tstamp>
+    </comp>
+    <comp ref="U1302">
+      <value>ESP32-WROOM-32</value>
+      <footprint>RF_Module:ESP32-WROOM-32</footprint>
+      <datasheet>https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf</datasheet>
+      <libsource lib="GatzeLib" part="ESP32-WROOM-32" description="RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>60890F52</tstamp>
+    </comp>
+    <comp ref="U1301">
+      <value>MP2315</value>
+      <footprint>GatzeLib:MP2315_Module</footprint>
+      <libsource lib="GatzeLib" part="MP2315" description=""/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>60894E0D</tstamp>
+    </comp>
+    <comp ref="C1311">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>60898F47</tstamp>
+    </comp>
+    <comp ref="C1312">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>60899AB3</tstamp>
+    </comp>
+    <comp ref="C1313">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>6089B609</tstamp>
+    </comp>
+    <comp ref="C1315">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>6089B60F</tstamp>
+    </comp>
+    <comp ref="C1314">
+      <value>100N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>608A7BD0</tstamp>
+    </comp>
+    <comp ref="C1316">
+      <value>100N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>608AE690</tstamp>
+    </comp>
+    <comp ref="C1317">
+      <value>100N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>608AE984</tstamp>
+    </comp>
+    <comp ref="C1319">
+      <value>100N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>608AED0D</tstamp>
+    </comp>
+    <comp ref="SW1301">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">707554</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>608BE4B8</tstamp>
+    </comp>
+    <comp ref="R1329">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>608C8FFF</tstamp>
+    </comp>
+    <comp ref="C1318">
+      <value>100N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>608D2CD1</tstamp>
+    </comp>
+    <comp ref="Q1302">
+      <value>BC847</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC847" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>608DEDA8</tstamp>
+    </comp>
+    <comp ref="Q1301">
+      <value>BC847</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC847" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>608E680F</tstamp>
+    </comp>
+    <comp ref="R1327">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>608ECED6</tstamp>
+    </comp>
+    <comp ref="R1326">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>608EFE7F</tstamp>
+    </comp>
+    <comp ref="R1328">
+      <value>NS</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>60914561</tstamp>
+    </comp>
+    <comp ref="J1302">
+      <value>Conn_01x05</value>
+      <footprint>Connector_JST:JST_PH_B5B-PH-K_1x05_P2.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">741246</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>609283F5</tstamp>
+    </comp>
+    <comp ref="J1301">
+      <value>Conn_01x07</value>
+      <footprint>Connector_JST:JST_PH_B7B-PH-K_1x07_P2.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">740103</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x07" description="Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>60941711</tstamp>
+    </comp>
+    <comp ref="R1321">
+      <value>NS</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>609A0AB8</tstamp>
+    </comp>
+    <comp ref="R1322">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>609B347B</tstamp>
+    </comp>
+    <comp ref="R1323">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>609B8DEC</tstamp>
+    </comp>
+    <comp ref="R1324">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>609BD3D0</tstamp>
+    </comp>
+    <comp ref="R1325">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Microcontroller/" tstamps="/608367CF/"/>
+      <tstamp>609C1A28</tstamp>
+    </comp>
+    <comp ref="H1501">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad_TopBottom</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>608763A7</tstamp>
+    </comp>
+    <comp ref="H1502">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad_TopBottom</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>608763AD</tstamp>
+    </comp>
+    <comp ref="H1503">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad_TopBottom</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>608763B3</tstamp>
+    </comp>
+    <comp ref="H1504">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad_TopBottom</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>608763B9</tstamp>
+    </comp>
+    <comp ref="Q1503">
+      <value>IRFZ2807ZPBF</value>
+      <footprint>GatzeLib:TO-220-3_Horizontal_TabDown_modified</footprint>
+      <datasheet>https://www.infineon.com/dgdl/Infineon-IRF6648-DS-v01_02-EN.pdf?fileId=5546d462533600a4015355ec6e561a59</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">164337</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="IRF6648" description="86A Id, 60V Vds, 7mOhm Rds, N-Channel MOSFET, DirectFET MN"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>608763C3</tstamp>
+    </comp>
+    <comp ref="R1509">
+      <value>0.005</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>608763C9</tstamp>
+    </comp>
+    <comp ref="R1513">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>608763DA</tstamp>
+    </comp>
+    <comp ref="R1514">
+      <value>47K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>608763E0</tstamp>
+    </comp>
+    <comp ref="R1512">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>608763E7</tstamp>
+    </comp>
+    <comp ref="Q1501">
+      <value>BC847</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <libsource lib="Transistor_BJT" part="BC847" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>608763F3</tstamp>
+    </comp>
+    <comp ref="R1506">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>608763F9</tstamp>
+    </comp>
+    <comp ref="R1511">
+      <value>47K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>60876400</tstamp>
+    </comp>
+    <comp ref="D1502">
+      <value>Z1SMA15</value>
+      <footprint>Diode_SMD:D_SOD-523</footprint>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">556861</field>
+      </fields>
+      <libsource lib="Diode" part="DZ2S160X0L" description="150mW Silicon Planar Zener Diode, 16V, SOD-523"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>6087640A</tstamp>
+    </comp>
+    <comp ref="R1515">
+      <value>47K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>60876414</tstamp>
+    </comp>
+    <comp ref="Q1502">
+      <value>BC857</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC860-D.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="BC857" description="0.1A Ic, 45V Vce, PNP Transistor, SOT-23"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>6087641C</tstamp>
+    </comp>
+    <comp ref="R1508">
+      <value>47K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>60876423</tstamp>
+    </comp>
+    <comp ref="C1501">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>6087642A</tstamp>
+    </comp>
+    <comp ref="C1503">
+      <value>1N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>60876430</tstamp>
+    </comp>
+    <comp ref="Q1506">
+      <value>IRFZ2807ZPBF</value>
+      <footprint>GatzeLib:TO-220-3_Horizontal_TabDown_modified</footprint>
+      <datasheet>https://www.infineon.com/dgdl/Infineon-IRF6648-DS-v01_02-EN.pdf?fileId=5546d462533600a4015355ec6e561a59</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">164337</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="IRF6648" description="86A Id, 60V Vds, 7mOhm Rds, N-Channel MOSFET, DirectFET MN"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>60876454</tstamp>
+    </comp>
+    <comp ref="Q1504">
+      <value>IRFZ2807ZPBF</value>
+      <footprint>GatzeLib:TO-220-3_Horizontal_TabDown_modified</footprint>
+      <datasheet>https://www.infineon.com/dgdl/Infineon-IRF6648-DS-v01_02-EN.pdf?fileId=5546d462533600a4015355ec6e561a59</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">164337</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="IRF6648" description="86A Id, 60V Vds, 7mOhm Rds, N-Channel MOSFET, DirectFET MN"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>6087645D</tstamp>
+    </comp>
+    <comp ref="Q1507">
+      <value>IRFZ2807ZPBF</value>
+      <footprint>GatzeLib:TO-220-3_Horizontal_TabDown_modified</footprint>
+      <datasheet>https://www.infineon.com/dgdl/Infineon-IRF6648-DS-v01_02-EN.pdf?fileId=5546d462533600a4015355ec6e561a59</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">164337</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="IRF6648" description="86A Id, 60V Vds, 7mOhm Rds, N-Channel MOSFET, DirectFET MN"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>60876465</tstamp>
+    </comp>
+    <comp ref="Q1505">
+      <value>IRFZ2807ZPBF</value>
+      <footprint>GatzeLib:TO-220-3_Horizontal_TabDown_modified</footprint>
+      <datasheet>https://www.infineon.com/dgdl/Infineon-IRF6648-DS-v01_02-EN.pdf?fileId=5546d462533600a4015355ec6e561a59</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">164337</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="IRF6648" description="86A Id, 60V Vds, 7mOhm Rds, N-Channel MOSFET, DirectFET MN"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>6087646D</tstamp>
+    </comp>
+    <comp ref="Q1508">
+      <value>IRFZ2807ZPBF</value>
+      <footprint>GatzeLib:TO-220-3_Horizontal_TabDown_modified</footprint>
+      <datasheet>https://www.infineon.com/dgdl/Infineon-IRF6648-DS-v01_02-EN.pdf?fileId=5546d462533600a4015355ec6e561a59</datasheet>
+      <fields>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">164337</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="IRF6648" description="86A Id, 60V Vds, 7mOhm Rds, N-Channel MOSFET, DirectFET MN"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>60876475</tstamp>
+    </comp>
+    <comp ref="C1502">
+      <value>100N</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>608764C1</tstamp>
+    </comp>
+    <comp ref="R1503">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>60876509</tstamp>
+    </comp>
+    <comp ref="R1504">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>6087650F</tstamp>
+    </comp>
+    <comp ref="R1510">
+      <value>0.005</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>6087651B</tstamp>
+    </comp>
+    <comp ref="D1503">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SMA-SMB_Universal_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Reichelt</field>
+        <field name="Supplier Part Number">M2 DIO</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>6087653C</tstamp>
+    </comp>
+    <comp ref="D1501">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SMA-SMB_Universal_Handsoldering</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Supplier">Reichelt</field>
+        <field name="Supplier Part Number">M2 DIO</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>6087654B</tstamp>
+    </comp>
+    <comp ref="U1501">
+      <value>MCP607</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <fields>
+        <field name="Supplier">Reichelt</field>
+        <field name="Supplier Part Number">MCP 607-I/SN</field>
+      </fields>
+      <libsource lib="GatzeLib" part="MCP607" description="Dual Operational Amplifiers, DIP-8/SOIC-8/TSSOP-8/VSSOP-8"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>60801B6F</tstamp>
+    </comp>
+    <comp ref="R1507">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>60876515</tstamp>
+    </comp>
+    <comp ref="R1505">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>608764DA</tstamp>
+    </comp>
+    <comp ref="R1502">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>608764E0</tstamp>
+    </comp>
+    <comp ref="R1501">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/BatteryPowerControl/" tstamps="/60847557/"/>
+      <tstamp>608764E6</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="74xx" part="74HC4051">
+      <aliases>
+        <alias>74HCT4051</alias>
+      </aliases>
+      <description>8-channel analog multiplexer/demultiplexer, DIP-16/SOIC-16/TSSOP-16</description>
+      <docs>http://www.ti.com/lit/ds/symlink/cd74hc4051.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOIC*3.9x9.9mm*P1.27mm*</fp>
+        <fp>SOIC*5.3x10.2mm*P1.27mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74HC4051</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A4" type="passive"/>
+        <pin num="2" name="A6" type="passive"/>
+        <pin num="3" name="A" type="passive"/>
+        <pin num="4" name="A7" type="passive"/>
+        <pin num="5" name="A5" type="passive"/>
+        <pin num="6" name="~E" type="input"/>
+        <pin num="7" name="VEE" type="power_in"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="S2" type="input"/>
+        <pin num="10" name="S1" type="input"/>
+        <pin num="11" name="S0" type="input"/>
+        <pin num="12" name="A3" type="passive"/>
+        <pin num="13" name="A0" type="passive"/>
+        <pin num="14" name="A1" type="passive"/>
+        <pin num="15" name="A2" type="passive"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x05">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x07">
+      <description>Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x07</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x11">
+      <description>Generic connector, single row, 01x11, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x11</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="MM5Zxx">
+      <aliases>
+        <alias>DZ2S030X0L</alias>
+        <alias>DZ2S033X0L</alias>
+        <alias>DZ2S036X0L</alias>
+        <alias>DZ2S039X0L</alias>
+        <alias>DZ2S047X0L</alias>
+        <alias>DZ2S051X0L</alias>
+        <alias>DZ2S056X0L</alias>
+        <alias>DZ2S068X0L</alias>
+        <alias>DZ2S082X0L</alias>
+        <alias>DZ2S100X0L</alias>
+        <alias>DZ2S120X0L</alias>
+        <alias>DZ2S130X0L</alias>
+        <alias>DZ2S150X0L</alias>
+        <alias>DZ2S160X0L</alias>
+        <alias>DZ2S180X0L</alias>
+        <alias>DZ2S200X0L</alias>
+        <alias>DZ2S360X0L</alias>
+        <alias>DZ2S110X0L</alias>
+      </aliases>
+      <description>300mW Zener Diode, SOD-523</description>
+      <docs>https://diotec.com/tl_files/diotec/files/pdf/datasheets/mm5z2v4.pdf</docs>
+      <footprints>
+        <fp>D?SOD?523*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">MM5Zxx</field>
+        <field name="Footprint">Diode_SMD:D_SOD-523</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="GatzeLib" part="ESP32-WROOM-32">
+      <description>RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD</description>
+      <docs>https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf</docs>
+      <footprints>
+        <fp>ESP32?WROOM?32*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-WROOM-32</field>
+        <field name="Footprint">RF_Module:ESP32-WROOM-32</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="IO36|A1_0|VP" type="input"/>
+        <pin num="5" name="IO39|A1_3|VN" type="input"/>
+        <pin num="6" name="A1_6|IO34" type="input"/>
+        <pin num="7" name="A1_7|IO35" type="input"/>
+        <pin num="8" name="A1_4|IO32" type="BiDi"/>
+        <pin num="9" name="A1_5|IO33" type="BiDi"/>
+        <pin num="10" name="DAC1|A2_8|IO25" type="BiDi"/>
+        <pin num="11" name="DAC2|A2_9|IO26" type="BiDi"/>
+        <pin num="12" name="A2_7|IO27" type="BiDi"/>
+        <pin num="13" name="A2_6|IO14" type="BiDi"/>
+        <pin num="14" name="A2_5|IO12" type="BiDi"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="A2_4|IO13" type="BiDi"/>
+        <pin num="17" name="SHD/SD2" type="BiDi"/>
+        <pin num="18" name="SWP/SD3" type="BiDi"/>
+        <pin num="19" name="SCS/CMD" type="BiDi"/>
+        <pin num="20" name="SCK/CLK" type="BiDi"/>
+        <pin num="21" name="SDO/SD0" type="BiDi"/>
+        <pin num="22" name="SDI/SD1" type="BiDi"/>
+        <pin num="23" name="A2_3|IO15" type="BiDi"/>
+        <pin num="24" name="A2_2|IO2" type="BiDi"/>
+        <pin num="25" name="A2_1|IO0" type="BiDi"/>
+        <pin num="26" name="A2_0|IO4" type="BiDi"/>
+        <pin num="27" name="RXD2|IO16" type="BiDi"/>
+        <pin num="28" name="TXD2|IO17" type="BiDi"/>
+        <pin num="29" name="IO5" type="BiDi"/>
+        <pin num="30" name="IO18" type="BiDi"/>
+        <pin num="31" name="IO19" type="BiDi"/>
+        <pin num="32" name="NC" type="NotConnected"/>
+        <pin num="33" name="I2C_SDA|IO21" type="BiDi"/>
+        <pin num="34" name="RXD0/IO3" type="BiDi"/>
+        <pin num="35" name="TXD0/IO1" type="BiDi"/>
+        <pin num="36" name="I2C_SCL|IO22" type="BiDi"/>
+        <pin num="37" name="IO23" type="BiDi"/>
+        <pin num="38" name="GND" type="power_in"/>
+        <pin num="39" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="GatzeLib" part="MCP607">
+      <description>Dual Operational Amplifiers, DIP-8/SOIC-8/TSSOP-8/VSSOP-8</description>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TO*99*</fp>
+        <fp>OnSemi*Micro8*</fp>
+        <fp>TSSOP*3x3mm*P0.65mm*</fp>
+        <fp>TSSOP*4.4x3mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.65mm*</fp>
+        <fp>SSOP*3.9x4.9mm*P0.635mm*</fp>
+        <fp>LFCSP*2x2mm*P0.5mm*</fp>
+        <fp>*SIP*</fp>
+        <fp>SOIC*5.3x6.2mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP607</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Supplier">Reichelt</field>
+        <field name="Supplier Part Number">MCP 607-I/SN</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="~" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="GatzeLib" part="MP2315">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MP2315</field>
+        <field name="Footprint">GatzeLib:MP2315_Module</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VO+" type="power_out"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="IN+" type="power_in"/>
+        <pin num="4" name="EN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Isolator" part="PC817">
+      <aliases>
+        <alias>EL817</alias>
+      </aliases>
+      <description>DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4</description>
+      <docs>http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PC817</field>
+        <field name="Footprint">Package_DIP:DIP-4_W7.62mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Supplier">Conrad</field>
+        <field name="Supplier Part Number">707554</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="BC807">
+      <aliases>
+        <alias>BC808</alias>
+        <alias>BC856</alias>
+        <alias>BC857</alias>
+        <alias>BC858</alias>
+        <alias>BC859</alias>
+        <alias>BC860</alias>
+        <alias>MMBT3906</alias>
+      </aliases>
+      <description>0.8A Ic, 45V Vce, PNP Transistor, SOT-23</description>
+      <docs>https://www.onsemi.com/pub/Collateral/BC808-D.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC807</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="BC817">
+      <aliases>
+        <alias>BC818</alias>
+        <alias>BC846</alias>
+        <alias>BC847</alias>
+        <alias>BC848</alias>
+        <alias>BC849</alias>
+        <alias>BC850</alias>
+        <alias>MMBT3904</alias>
+        <alias>MMBT5550L</alias>
+        <alias>MMBT5551L</alias>
+      </aliases>
+      <description>0.8A Ic, 45V Vce, NPN Transistor, SOT-23</description>
+      <docs>https://www.onsemi.com/pub/Collateral/BC818-D.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC817</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="BSB028N06NN3">
+      <aliases>
+        <alias>BSB044N08NN3</alias>
+        <alias>BSB056N10NN3</alias>
+        <alias>IRF6644</alias>
+        <alias>IRF6646</alias>
+        <alias>IRF6648</alias>
+        <alias>IRF6662</alias>
+        <alias>IRF6668</alias>
+        <alias>IRF7171M</alias>
+      </aliases>
+      <description>90A Id, 60V Vds, 2.8mOhm Rds, N-Channel MOSFET, DirectFET MN</description>
+      <docs>https://www.infineon.com/dgdl/Infineon-BSB028N06NN3-DS-v02_00-en.pdf?fileId=db3a30432e25b009012e29fda4e23838</docs>
+      <footprints>
+        <fp>DirectFET*MN*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BSB028N06NN3</field>
+        <field name="Footprint">Package_DirectFET:DirectFET_MN</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D" type="passive"/>
+        <pin num="2" name="G" type="input"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="BSS138">
+      <aliases>
+        <alias>2N7002</alias>
+        <alias>2N7002E</alias>
+        <alias>2N7002H</alias>
+        <alias>2N7002K</alias>
+        <alias>BS170F</alias>
+        <alias>BS870</alias>
+        <alias>BSN20</alias>
+        <alias>BSS123</alias>
+        <alias>BSS127S</alias>
+        <alias>DMG2302U</alias>
+        <alias>DMG3402L</alias>
+        <alias>DMG3404L</alias>
+        <alias>DMG3406L</alias>
+        <alias>DMG3414U</alias>
+        <alias>DMG3418L</alias>
+        <alias>DMN10H220L</alias>
+        <alias>DMN10H700S</alias>
+        <alias>DMN13H750S</alias>
+        <alias>DMN2041L</alias>
+        <alias>DMN2050L</alias>
+        <alias>DMN2056U</alias>
+        <alias>DMN2058U</alias>
+        <alias>DMN2075U</alias>
+        <alias>DMN2230U</alias>
+        <alias>DMN24H11DS</alias>
+        <alias>DMN24H3D5L</alias>
+        <alias>DMN3042L</alias>
+        <alias>DMN3051L</alias>
+        <alias>DMN30H4D0L</alias>
+        <alias>DMN3110S</alias>
+        <alias>DMN3150L</alias>
+        <alias>DMN3300U</alias>
+        <alias>DMN3404L</alias>
+        <alias>DMN6075S</alias>
+        <alias>DMN6140L</alias>
+        <alias>DMN67D7L</alias>
+        <alias>DMN67D8L</alias>
+        <alias>MMBF170</alias>
+        <alias>VN10LF</alias>
+        <alias>ZVN3306F</alias>
+        <alias>ZVN3310F</alias>
+        <alias>ZVN3320F</alias>
+        <alias>ZVN4106F</alias>
+        <alias>ZXM61N02F</alias>
+        <alias>ZXM61N03F</alias>
+        <alias>ZXMN10A07F</alias>
+        <alias>ZXMN2A01F</alias>
+        <alias>ZXMN2A14F</alias>
+        <alias>ZXMN2B01F</alias>
+        <alias>ZXMN2B14FH</alias>
+        <alias>ZXMN2F30FH</alias>
+        <alias>ZXMN2F34FH</alias>
+        <alias>ZXMN3A01F</alias>
+        <alias>ZXMN3A14F</alias>
+        <alias>ZXMN3B01F</alias>
+        <alias>ZXMN3B14F</alias>
+        <alias>ZXMN3F30FH</alias>
+        <alias>ZXMN6A07F</alias>
+        <alias>IRLML0030</alias>
+        <alias>IRLML2060</alias>
+        <alias>TSM2302CX</alias>
+        <alias>AO3400A</alias>
+      </aliases>
+      <description>50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23</description>
+      <docs>https://www.onsemi.com/pub/Collateral/BSS138-D.PDF</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BSS138</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xx">
+      <uri>D:\Stack\HobbyTechniek\Kicad\library/74xx.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>D:\Stack\HobbyTechniek\Kicad\library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>D:\Stack\HobbyTechniek\Kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Diode">
+      <uri>D:\Stack\HobbyTechniek\Kicad\library/Diode.lib</uri>
+    </library>
+    <library logical="GatzeLib">
+      <uri>D:/Stack/HobbyTechniek/Kicad/Gatze/GatzeLib.lib</uri>
+    </library>
+    <library logical="Isolator">
+      <uri>D:\Stack\HobbyTechniek\Kicad\library/Isolator.lib</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>D:\Stack\HobbyTechniek\Kicad\library/Mechanical.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>D:\Stack\HobbyTechniek\Kicad\library/Switch.lib</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>D:\Stack\HobbyTechniek\Kicad\library/Transistor_BJT.lib</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>D:\Stack\HobbyTechniek\Kicad\library/Transistor_FET.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/Cell9_bal">
+      <node ref="R1001" pin="2"/>
+    </net>
+    <net code="2" name="/Cell7_bal">
+      <node ref="R801" pin="2"/>
+    </net>
+    <net code="3" name="/Vcell_6">
+      <node ref="Q802" pin="2"/>
+      <node ref="R806" pin="1"/>
+      <node ref="C802" pin="2"/>
+      <node ref="J101" pin="7"/>
+      <node ref="R709" pin="1"/>
+      <node ref="R705" pin="1"/>
+      <node ref="U701" pin="4"/>
+      <node ref="R707" pin="1"/>
+    </net>
+    <net code="4" name="/Cell8_bal">
+      <node ref="R901" pin="2"/>
+    </net>
+    <net code="5" name="/Vcell_8">
+      <node ref="R907" pin="1"/>
+      <node ref="C1002" pin="2"/>
+      <node ref="R909" pin="1"/>
+      <node ref="R1006" pin="1"/>
+      <node ref="Q1002" pin="2"/>
+      <node ref="J101" pin="9"/>
+      <node ref="U901" pin="4"/>
+      <node ref="R905" pin="1"/>
+    </net>
+    <net code="6" name="/Vcell_7">
+      <node ref="R807" pin="1"/>
+      <node ref="R809" pin="1"/>
+      <node ref="C902" pin="2"/>
+      <node ref="R906" pin="1"/>
+      <node ref="R805" pin="1"/>
+      <node ref="Q902" pin="2"/>
+      <node ref="U801" pin="4"/>
+      <node ref="J101" pin="8"/>
+    </net>
+    <net code="7" name="/Vcell_9">
+      <node ref="Q1102" pin="2"/>
+      <node ref="R1106" pin="1"/>
+      <node ref="U1001" pin="4"/>
+      <node ref="C1102" pin="2"/>
+      <node ref="R1009" pin="1"/>
+      <node ref="R1007" pin="1"/>
+      <node ref="R1005" pin="1"/>
+      <node ref="J101" pin="10"/>
+    </net>
+    <net code="8" name="/Cell10_bal">
+      <node ref="R1101" pin="2"/>
+    </net>
+    <net code="9" name="/Vcell_10">
+      <node ref="U1101" pin="4"/>
+      <node ref="R1105" pin="1"/>
+      <node ref="R1109" pin="1"/>
+      <node ref="R1107" pin="1"/>
+      <node ref="J101" pin="11"/>
+    </net>
+    <net code="10" name="/Vcell_5">
+      <node ref="R609" pin="1"/>
+      <node ref="R605" pin="1"/>
+      <node ref="C702" pin="2"/>
+      <node ref="J101" pin="6"/>
+      <node ref="R706" pin="1"/>
+      <node ref="Q702" pin="2"/>
+      <node ref="R607" pin="1"/>
+      <node ref="U601" pin="4"/>
+    </net>
+    <net code="11" name="/Vcell_4">
+      <node ref="C602" pin="2"/>
+      <node ref="J101" pin="5"/>
+      <node ref="U501" pin="4"/>
+      <node ref="R505" pin="1"/>
+      <node ref="Q602" pin="2"/>
+      <node ref="R507" pin="1"/>
+      <node ref="R606" pin="1"/>
+      <node ref="R509" pin="1"/>
+    </net>
+    <net code="12" name="/Vcell_3">
+      <node ref="R409" pin="1"/>
+      <node ref="Q502" pin="2"/>
+      <node ref="U401" pin="4"/>
+      <node ref="R405" pin="1"/>
+      <node ref="C502" pin="2"/>
+      <node ref="R407" pin="1"/>
+      <node ref="R506" pin="1"/>
+      <node ref="J101" pin="4"/>
+    </net>
+    <net code="13" name="/Cell4_bal">
+      <node ref="R501" pin="2"/>
+    </net>
+    <net code="14" name="/Cell5_bal">
+      <node ref="R601" pin="2"/>
+    </net>
+    <net code="15" name="/Cell6_bal">
+      <node ref="R701" pin="2"/>
+    </net>
+    <net code="16" name="/Microcontroller/Vcell_3">
+      <node ref="C1311" pin="1"/>
+      <node ref="C1312" pin="1"/>
+      <node ref="U1301" pin="3"/>
+    </net>
+    <net code="17" name="/Microcontroller/Vcell_9_adc">
+      <node ref="U1302" pin="9"/>
+    </net>
+    <net code="18" name="/Microcontroller/Vcell_10_adc">
+      <node ref="U1302" pin="6"/>
+    </net>
+    <net code="19" name="/Microcontroller/ADCShunt">
+      <node ref="U1302" pin="7"/>
+    </net>
+    <net code="20" name="/Microcontroller/BMS_On_Off_UC">
+      <node ref="U1302" pin="30"/>
+    </net>
+    <net code="21" name="/BatteryPowerControl/BMS_On_Off">
+      <node ref="R1506" pin="2"/>
+    </net>
+    <net code="22" name="/BatteryPowerControl/ADC_Shunt">
+      <node ref="R1507" pin="2"/>
+      <node ref="U1501" pin="7"/>
+    </net>
+    <net code="23" name="/Microcontroller/Vcell_8_adc">
+      <node ref="U1403" pin="4"/>
+    </net>
+    <net code="24" name="/VoltageMeasurement/Vcell_1">
+      <node ref="R1301" pin="1"/>
+    </net>
+    <net code="25" name="Vcell_2">
+      <node ref="Q402" pin="2"/>
+      <node ref="R503" pin="1"/>
+      <node ref="R603" pin="1"/>
+      <node ref="R903" pin="1"/>
+      <node ref="C402" pin="2"/>
+      <node ref="R305" pin="1"/>
+      <node ref="R1003" pin="1"/>
+      <node ref="R803" pin="1"/>
+      <node ref="R403" pin="1"/>
+      <node ref="R406" pin="1"/>
+      <node ref="R307" pin="1"/>
+      <node ref="R309" pin="1"/>
+      <node ref="R203" pin="1"/>
+      <node ref="J101" pin="3"/>
+      <node ref="R1103" pin="1"/>
+      <node ref="R303" pin="1"/>
+      <node ref="R703" pin="1"/>
+      <node ref="U301" pin="4"/>
+    </net>
+    <net code="26" name="/VoltageMeasurement/Vcell_1_ADC">
+      <node ref="R1301" pin="2"/>
+      <node ref="R1302" pin="1"/>
+      <node ref="C1304" pin="1"/>
+      <node ref="R1307" pin="2"/>
+      <node ref="R1308" pin="1"/>
+      <node ref="C1302" pin="1"/>
+      <node ref="R1310" pin="1"/>
+      <node ref="R1309" pin="2"/>
+      <node ref="C1305" pin="1"/>
+      <node ref="C1303" pin="1"/>
+      <node ref="C1306" pin="1"/>
+      <node ref="R1312" pin="1"/>
+      <node ref="R1311" pin="2"/>
+      <node ref="R1320" pin="1"/>
+      <node ref="R1319" pin="2"/>
+      <node ref="C1308" pin="1"/>
+      <node ref="R1316" pin="1"/>
+      <node ref="R1315" pin="2"/>
+      <node ref="R1303" pin="2"/>
+      <node ref="R1304" pin="1"/>
+      <node ref="R1314" pin="1"/>
+      <node ref="R1305" pin="2"/>
+      <node ref="C1309" pin="1"/>
+      <node ref="R1313" pin="2"/>
+      <node ref="R1317" pin="2"/>
+      <node ref="C1310" pin="1"/>
+      <node ref="R1306" pin="1"/>
+      <node ref="C1301" pin="1"/>
+      <node ref="R1318" pin="1"/>
+      <node ref="C1307" pin="1"/>
+    </net>
+    <net code="27" name="/VoltageMeasurement/Vcell_2">
+      <node ref="R1305" pin="1"/>
+    </net>
+    <net code="28" name="/Microcontroller/Vcell_1_adc">
+      <node ref="U1403" pin="13"/>
+    </net>
+    <net code="29" name="/Microcontroller/Vcell_2_adc">
+      <node ref="U1403" pin="14"/>
+    </net>
+    <net code="30" name="/Microcontroller/Vcell_3_adc">
+      <node ref="U1403" pin="15"/>
+    </net>
+    <net code="31" name="/Microcontroller/Vcell_4_adc">
+      <node ref="U1403" pin="12"/>
+    </net>
+    <net code="32" name="/Microcontroller/Vcell_5_adc">
+      <node ref="U1403" pin="1"/>
+    </net>
+    <net code="33" name="/Microcontroller/Vcell_6_adc">
+      <node ref="U1403" pin="5"/>
+    </net>
+    <net code="34" name="/Microcontroller/Vcell_7_adc">
+      <node ref="U1403" pin="2"/>
+    </net>
+    <net code="35" name="/Vcell_1">
+      <node ref="C302" pin="2"/>
+      <node ref="R205" pin="1"/>
+      <node ref="R209" pin="1"/>
+      <node ref="R306" pin="1"/>
+      <node ref="J101" pin="2"/>
+      <node ref="R207" pin="1"/>
+      <node ref="Q302" pin="2"/>
+      <node ref="U201" pin="4"/>
+    </net>
+    <net code="36" name="/Cell1_bal">
+      <node ref="R201" pin="2"/>
+    </net>
+    <net code="37" name="/Cell2_bal">
+      <node ref="R301" pin="2"/>
+    </net>
+    <net code="38" name="GND">
+      <node ref="H1502" pin="1"/>
+      <node ref="C1318" pin="2"/>
+      <node ref="Q1001" pin="2"/>
+      <node ref="C1502" pin="2"/>
+      <node ref="D1501" pin="2"/>
+      <node ref="R1102" pin="2"/>
+      <node ref="U1501" pin="4"/>
+      <node ref="C1101" pin="2"/>
+      <node ref="Q1101" pin="2"/>
+      <node ref="C1001" pin="2"/>
+      <node ref="J1302" pin="5"/>
+      <node ref="Q501" pin="2"/>
+      <node ref="R1510" pin="2"/>
+      <node ref="R1504" pin="2"/>
+      <node ref="R1328" pin="2"/>
+      <node ref="R1502" pin="1"/>
+      <node ref="R702" pin="2"/>
+      <node ref="R402" pin="2"/>
+      <node ref="Q301" pin="2"/>
+      <node ref="C301" pin="2"/>
+      <node ref="C501" pin="2"/>
+      <node ref="R602" pin="2"/>
+      <node ref="R502" pin="2"/>
+      <node ref="C601" pin="2"/>
+      <node ref="Q401" pin="2"/>
+      <node ref="Q601" pin="2"/>
+      <node ref="C701" pin="2"/>
+      <node ref="C401" pin="2"/>
+      <node ref="Q701" pin="2"/>
+      <node ref="R902" pin="2"/>
+      <node ref="R1509" pin="2"/>
+      <node ref="Q901" pin="2"/>
+      <node ref="C901" pin="2"/>
+      <node ref="R1514" pin="2"/>
+      <node ref="Q1501" pin="2"/>
+      <node ref="R1002" pin="2"/>
+      <node ref="C1503" pin="2"/>
+      <node ref="C1501" pin="2"/>
+      <node ref="Q801" pin="2"/>
+      <node ref="R802" pin="2"/>
+      <node ref="R302" pin="2"/>
+      <node ref="R1508" pin="1"/>
+      <node ref="C801" pin="2"/>
+      <node ref="C1413" pin="2"/>
+      <node ref="U1302" pin="1"/>
+      <node ref="C1303" pin="2"/>
+      <node ref="U1302" pin="15"/>
+      <node ref="R1310" pin="2"/>
+      <node ref="D1301" pin="1"/>
+      <node ref="C1316" pin="2"/>
+      <node ref="C1317" pin="2"/>
+      <node ref="C1319" pin="2"/>
+      <node ref="U1403" pin="6"/>
+      <node ref="U1403" pin="7"/>
+      <node ref="U1403" pin="8"/>
+      <node ref="R1320" pin="2"/>
+      <node ref="C1308" pin="2"/>
+      <node ref="R1316" pin="2"/>
+      <node ref="D1401" pin="1"/>
+      <node ref="R1304" pin="2"/>
+      <node ref="J1301" pin="7"/>
+      <node ref="C1304" pin="2"/>
+      <node ref="R1308" pin="2"/>
+      <node ref="C1302" pin="2"/>
+      <node ref="C1305" pin="2"/>
+      <node ref="C1311" pin="2"/>
+      <node ref="C1301" pin="2"/>
+      <node ref="R1302" pin="2"/>
+      <node ref="C1312" pin="2"/>
+      <node ref="C1313" pin="2"/>
+      <node ref="C1315" pin="2"/>
+      <node ref="C1314" pin="2"/>
+      <node ref="C1310" pin="2"/>
+      <node ref="R1318" pin="2"/>
+      <node ref="C1309" pin="2"/>
+      <node ref="R1314" pin="2"/>
+      <node ref="R1306" pin="2"/>
+      <node ref="C1307" pin="2"/>
+      <node ref="J101" pin="1"/>
+      <node ref="U1301" pin="2"/>
+      <node ref="U1302" pin="39"/>
+      <node ref="U1302" pin="38"/>
+      <node ref="R202" pin="2"/>
+      <node ref="Q201" pin="2"/>
+      <node ref="R206" pin="1"/>
+      <node ref="SW1301" pin="1"/>
+      <node ref="Q202" pin="2"/>
+      <node ref="C201" pin="2"/>
+      <node ref="C202" pin="2"/>
+      <node ref="C1306" pin="2"/>
+      <node ref="R1312" pin="2"/>
+    </net>
+    <net code="43" name="/Cell3_bal">
+      <node ref="R401" pin="2"/>
+    </net>
+    <net code="44" name="Net-(R209-Pad2)">
+      <node ref="R209" pin="2"/>
+      <node ref="R210" pin="1"/>
+    </net>
+    <net code="45" name="Net-(R207-Pad2)">
+      <node ref="R207" pin="2"/>
+      <node ref="R208" pin="1"/>
+    </net>
+    <net code="46" name="Net-(D201-Pad1)">
+      <node ref="Q202" pin="3"/>
+      <node ref="R210" pin="2"/>
+      <node ref="R208" pin="2"/>
+      <node ref="D201" pin="1"/>
+    </net>
+    <net code="47" name="Net-(Q201-Pad3)">
+      <node ref="Q201" pin="3"/>
+      <node ref="U201" pin="2"/>
+    </net>
+    <net code="48" name="Net-(R204-Pad2)">
+      <node ref="R204" pin="2"/>
+      <node ref="U201" pin="3"/>
+    </net>
+    <net code="49" name="Net-(R203-Pad2)">
+      <node ref="R203" pin="2"/>
+      <node ref="U201" pin="1"/>
+    </net>
+    <net code="50" name="Net-(C202-Pad1)">
+      <node ref="R206" pin="2"/>
+      <node ref="C202" pin="1"/>
+      <node ref="Q202" pin="1"/>
+      <node ref="R204" pin="1"/>
+    </net>
+    <net code="51" name="Net-(D201-Pad2)">
+      <node ref="R205" pin="2"/>
+      <node ref="D201" pin="2"/>
+    </net>
+    <net code="52" name="Net-(C201-Pad1)">
+      <node ref="R202" pin="1"/>
+      <node ref="R201" pin="1"/>
+      <node ref="Q201" pin="1"/>
+      <node ref="C201" pin="1"/>
+    </net>
+    <net code="53" name="/VoltageMeasurement/Vcell_5">
+      <node ref="R1311" pin="1"/>
+    </net>
+    <net code="54" name="/VoltageMeasurement/Vcell_5">
+      <node ref="R1319" pin="1"/>
+    </net>
+    <net code="55" name="/VoltageMeasurement/Vcell_5">
+      <node ref="R1315" pin="1"/>
+    </net>
+    <net code="56" name="/VoltageMeasurement/Vcell_6">
+      <node ref="R1303" pin="1"/>
+    </net>
+    <net code="57" name="/VoltageMeasurement/Vcell_3">
+      <node ref="R1309" pin="1"/>
+    </net>
+    <net code="58" name="/VoltageMeasurement/Vcell_4">
+      <node ref="R1313" pin="1"/>
+    </net>
+    <net code="59" name="/VoltageMeasurement/Vcell_5">
+      <node ref="R1317" pin="1"/>
+    </net>
+    <net code="60" name="/VoltageMeasurement/Vcell_5">
+      <node ref="R1307" pin="1"/>
+    </net>
+    <net code="61" name="+3V3">
+      <node ref="J1301" pin="1"/>
+      <node ref="C1313" pin="1"/>
+      <node ref="C1317" pin="1"/>
+      <node ref="C1315" pin="1"/>
+      <node ref="R1329" pin="1"/>
+      <node ref="C1314" pin="1"/>
+      <node ref="U1301" pin="1"/>
+      <node ref="C1413" pin="1"/>
+      <node ref="C1502" pin="1"/>
+      <node ref="U1302" pin="2"/>
+      <node ref="U1403" pin="16"/>
+      <node ref="C1316" pin="1"/>
+      <node ref="U1501" pin="8"/>
+      <node ref="C1319" pin="1"/>
+      <node ref="R1503" pin="1"/>
+    </net>
+    <net code="62" name="Net-(U1302-Pad32)">
+      <node ref="U1302" pin="32"/>
+    </net>
+    <net code="63" name="Net-(U1302-Pad33)">
+      <node ref="U1302" pin="33"/>
+    </net>
+    <net code="64" name="Net-(U1302-Pad36)">
+      <node ref="U1302" pin="36"/>
+    </net>
+    <net code="65" name="Net-(U1302-Pad4)">
+      <node ref="U1302" pin="4"/>
+    </net>
+    <net code="66" name="Net-(U1302-Pad5)">
+      <node ref="U1302" pin="5"/>
+    </net>
+    <net code="67" name="Net-(U1301-Pad4)">
+      <node ref="U1301" pin="4"/>
+    </net>
+    <net code="68" name="Net-(R1403-Pad1)">
+      <node ref="U1403" pin="11"/>
+      <node ref="R1403" pin="1"/>
+    </net>
+    <net code="69" name="/Microcontroller/ADC_UC_MULTI">
+      <node ref="U1302" pin="8"/>
+      <node ref="U1403" pin="3"/>
+    </net>
+    <net code="70" name="Net-(R1404-Pad1)">
+      <node ref="U1403" pin="10"/>
+      <node ref="R1404" pin="1"/>
+    </net>
+    <net code="71" name="Net-(R1405-Pad1)">
+      <node ref="U1403" pin="9"/>
+      <node ref="R1405" pin="1"/>
+    </net>
+    <net code="72" name="/Microcontroller/S0">
+      <node ref="R1403" pin="2"/>
+      <node ref="U1302" pin="10"/>
+    </net>
+    <net code="73" name="Net-(U1302-Pad19)">
+      <node ref="U1302" pin="19"/>
+    </net>
+    <net code="74" name="/Microcontroller/nTRST">
+      <node ref="R1321" pin="2"/>
+      <node ref="J1301" pin="2"/>
+    </net>
+    <net code="75" name="Net-(U1302-Pad17)">
+      <node ref="U1302" pin="17"/>
+    </net>
+    <net code="76" name="Net-(U1302-Pad18)">
+      <node ref="U1302" pin="18"/>
+    </net>
+    <net code="77" name="Net-(U1302-Pad20)">
+      <node ref="U1302" pin="20"/>
+    </net>
+    <net code="78" name="Net-(U1302-Pad21)">
+      <node ref="U1302" pin="21"/>
+    </net>
+    <net code="79" name="Net-(U1302-Pad22)">
+      <node ref="U1302" pin="22"/>
+    </net>
+    <net code="80" name="Net-(U1302-Pad26)">
+      <node ref="U1302" pin="26"/>
+    </net>
+    <net code="81" name="Net-(U1302-Pad27)">
+      <node ref="U1302" pin="27"/>
+    </net>
+    <net code="82" name="Net-(U1302-Pad28)">
+      <node ref="U1302" pin="28"/>
+    </net>
+    <net code="83" name="Net-(U1302-Pad29)">
+      <node ref="U1302" pin="29"/>
+    </net>
+    <net code="84" name="/Microcontroller/S1">
+      <node ref="U1302" pin="11"/>
+      <node ref="R1404" pin="2"/>
+    </net>
+    <net code="85" name="/Microcontroller/S2">
+      <node ref="R1405" pin="2"/>
+      <node ref="U1302" pin="12"/>
+    </net>
+    <net code="86" name="/Microcontroller/StatusLed1">
+      <node ref="U1302" pin="31"/>
+      <node ref="R1401" pin="1"/>
+    </net>
+    <net code="87" name="Net-(D1301-Pad2)">
+      <node ref="D1301" pin="2"/>
+      <node ref="R1330" pin="2"/>
+    </net>
+    <net code="88" name="/Microcontroller/StatusLed2">
+      <node ref="R1330" pin="1"/>
+      <node ref="U1302" pin="37"/>
+    </net>
+    <net code="89" name="/Microcontroller/RESET">
+      <node ref="R1321" pin="1"/>
+      <node ref="Q1302" pin="3"/>
+      <node ref="U1302" pin="3"/>
+      <node ref="C1318" pin="1"/>
+      <node ref="R1329" pin="2"/>
+      <node ref="SW1301" pin="2"/>
+    </net>
+    <net code="90" name="/Microcontroller/TDO">
+      <node ref="J1301" pin="3"/>
+      <node ref="R1322" pin="2"/>
+    </net>
+    <net code="91" name="/Microcontroller/TXD0">
+      <node ref="J1302" pin="1"/>
+      <node ref="U1302" pin="35"/>
+    </net>
+    <net code="92" name="/Microcontroller/RXD0">
+      <node ref="U1302" pin="34"/>
+      <node ref="J1302" pin="2"/>
+    </net>
+    <net code="93" name="/Microcontroller/TDI">
+      <node ref="R1323" pin="2"/>
+      <node ref="J1301" pin="4"/>
+    </net>
+    <net code="94" name="/Microcontroller/TDO_UC">
+      <node ref="U1302" pin="23"/>
+      <node ref="R1322" pin="1"/>
+    </net>
+    <net code="95" name="/Microcontroller/TDI_UC">
+      <node ref="U1302" pin="14"/>
+      <node ref="R1323" pin="1"/>
+    </net>
+    <net code="96" name="/Microcontroller/TCK_UC">
+      <node ref="R1324" pin="1"/>
+      <node ref="U1302" pin="16"/>
+    </net>
+    <net code="97" name="/Microcontroller/TMS_UC">
+      <node ref="U1302" pin="13"/>
+      <node ref="R1325" pin="1"/>
+    </net>
+    <net code="98" name="Net-(D1401-Pad2)">
+      <node ref="D1401" pin="2"/>
+      <node ref="R1401" pin="2"/>
+    </net>
+    <net code="99" name="/Microcontroller/TCK">
+      <node ref="J1301" pin="5"/>
+      <node ref="R1324" pin="2"/>
+    </net>
+    <net code="100" name="/Microcontroller/TMS">
+      <node ref="R1325" pin="2"/>
+      <node ref="J1301" pin="6"/>
+    </net>
+    <net code="101" name="/Microcontroller/RTS">
+      <node ref="J1302" pin="3"/>
+      <node ref="Q1302" pin="2"/>
+      <node ref="R1326" pin="2"/>
+    </net>
+    <net code="102" name="/Microcontroller/IO0">
+      <node ref="Q1301" pin="3"/>
+      <node ref="U1302" pin="25"/>
+    </net>
+    <net code="103" name="Net-(Q1302-Pad1)">
+      <node ref="Q1302" pin="1"/>
+      <node ref="R1327" pin="1"/>
+    </net>
+    <net code="104" name="/Microcontroller/DTR">
+      <node ref="R1327" pin="2"/>
+      <node ref="Q1301" pin="2"/>
+      <node ref="J1302" pin="4"/>
+    </net>
+    <net code="105" name="Net-(Q1301-Pad1)">
+      <node ref="Q1301" pin="1"/>
+      <node ref="R1326" pin="1"/>
+    </net>
+    <net code="106" name="/Microcontroller/IO2">
+      <node ref="U1302" pin="24"/>
+      <node ref="R1328" pin="1"/>
+    </net>
+    <net code="107" name="Net-(R1505-Pad1)">
+      <node ref="U1501" pin="1"/>
+      <node ref="U1501" pin="2"/>
+      <node ref="R1505" pin="1"/>
+    </net>
+    <net code="108" name="Net-(R1503-Pad2)">
+      <node ref="R1503" pin="2"/>
+      <node ref="R1504" pin="1"/>
+      <node ref="U1501" pin="3"/>
+    </net>
+    <net code="109" name="Net-(R1501-Pad2)">
+      <node ref="R1501" pin="2"/>
+      <node ref="R1505" pin="2"/>
+      <node ref="U1501" pin="5"/>
+    </net>
+    <net code="110" name="Net-(R1502-Pad2)">
+      <node ref="U1501" pin="6"/>
+      <node ref="R1502" pin="2"/>
+      <node ref="R1507" pin="1"/>
+    </net>
+    <net code="111" name="/BatteryPowerControl/Shunt+">
+      <node ref="Q1503" pin="1"/>
+      <node ref="R1509" pin="1"/>
+      <node ref="R1510" pin="1"/>
+      <node ref="Q1504" pin="1"/>
+      <node ref="Q1505" pin="1"/>
+      <node ref="R1501" pin="1"/>
+    </net>
+    <net code="112" name="Net-(Q1502-Pad1)">
+      <node ref="R1511" pin="1"/>
+      <node ref="Q1502" pin="1"/>
+      <node ref="R1512" pin="2"/>
+    </net>
+    <net code="113" name="Net-(D1502-Pad2)">
+      <node ref="Q1503" pin="3"/>
+      <node ref="Q1505" pin="3"/>
+      <node ref="R1515" pin="2"/>
+      <node ref="D1502" pin="2"/>
+      <node ref="Q1508" pin="3"/>
+      <node ref="Q1507" pin="3"/>
+      <node ref="Q1506" pin="3"/>
+      <node ref="Q1504" pin="3"/>
+    </net>
+    <net code="114" name="Net-(C1503-Pad1)">
+      <node ref="Q1505" pin="2"/>
+      <node ref="R1515" pin="1"/>
+      <node ref="Q1508" pin="2"/>
+      <node ref="C1503" pin="1"/>
+      <node ref="R1514" pin="1"/>
+      <node ref="R1513" pin="2"/>
+      <node ref="Q1507" pin="2"/>
+      <node ref="Q1504" pin="2"/>
+      <node ref="D1502" pin="1"/>
+      <node ref="Q1506" pin="2"/>
+      <node ref="Q1503" pin="2"/>
+    </net>
+    <net code="115" name="Net-(D1501-Pad1)">
+      <node ref="H1501" pin="1"/>
+      <node ref="H1503" pin="1"/>
+      <node ref="D1503" pin="1"/>
+      <node ref="D1501" pin="1"/>
+    </net>
+    <net code="116" name="/BatteryPowerControl/Vcell_3">
+      <node ref="R1511" pin="2"/>
+      <node ref="Q1502" pin="2"/>
+    </net>
+    <net code="117" name="Net-(C1501-Pad1)">
+      <node ref="Q1501" pin="1"/>
+      <node ref="R1506" pin="1"/>
+      <node ref="R1508" pin="2"/>
+      <node ref="C1501" pin="1"/>
+    </net>
+    <net code="118" name="Net-(Q1501-Pad3)">
+      <node ref="Q1501" pin="3"/>
+      <node ref="R1512" pin="1"/>
+    </net>
+    <net code="119" name="Net-(Q1502-Pad3)">
+      <node ref="Q1502" pin="3"/>
+      <node ref="R1513" pin="1"/>
+    </net>
+    <net code="120" name="Net-(D1503-Pad2)">
+      <node ref="Q1508" pin="1"/>
+      <node ref="Q1507" pin="1"/>
+      <node ref="D1503" pin="2"/>
+      <node ref="Q1506" pin="1"/>
+      <node ref="H1504" pin="1"/>
+    </net>
+    <net code="121" name="Net-(R307-Pad2)">
+      <node ref="R307" pin="2"/>
+      <node ref="R308" pin="1"/>
+    </net>
+    <net code="122" name="Net-(R309-Pad2)">
+      <node ref="R310" pin="1"/>
+      <node ref="R309" pin="2"/>
+    </net>
+    <net code="123" name="Net-(D301-Pad1)">
+      <node ref="R308" pin="2"/>
+      <node ref="R310" pin="2"/>
+      <node ref="Q302" pin="3"/>
+      <node ref="D301" pin="1"/>
+    </net>
+    <net code="124" name="Net-(Q301-Pad3)">
+      <node ref="U301" pin="2"/>
+      <node ref="Q301" pin="3"/>
+    </net>
+    <net code="125" name="Net-(R303-Pad2)">
+      <node ref="U301" pin="1"/>
+      <node ref="R303" pin="2"/>
+    </net>
+    <net code="126" name="Net-(C302-Pad1)">
+      <node ref="Q302" pin="1"/>
+      <node ref="C302" pin="1"/>
+      <node ref="R306" pin="2"/>
+      <node ref="R304" pin="1"/>
+    </net>
+    <net code="127" name="Net-(R304-Pad2)">
+      <node ref="R304" pin="2"/>
+      <node ref="U301" pin="3"/>
+    </net>
+    <net code="128" name="Net-(D301-Pad2)">
+      <node ref="R305" pin="2"/>
+      <node ref="D301" pin="2"/>
+    </net>
+    <net code="129" name="Net-(C301-Pad1)">
+      <node ref="R301" pin="1"/>
+      <node ref="R302" pin="1"/>
+      <node ref="C301" pin="1"/>
+      <node ref="Q301" pin="1"/>
+    </net>
+    <net code="130" name="Net-(R409-Pad2)">
+      <node ref="R410" pin="1"/>
+      <node ref="R409" pin="2"/>
+    </net>
+    <net code="131" name="Net-(R407-Pad2)">
+      <node ref="R408" pin="1"/>
+      <node ref="R407" pin="2"/>
+    </net>
+    <net code="132" name="Net-(D401-Pad1)">
+      <node ref="Q402" pin="3"/>
+      <node ref="D401" pin="1"/>
+      <node ref="R408" pin="2"/>
+      <node ref="R410" pin="2"/>
+    </net>
+    <net code="133" name="Net-(R403-Pad2)">
+      <node ref="R403" pin="2"/>
+      <node ref="U401" pin="1"/>
+    </net>
+    <net code="134" name="Net-(Q401-Pad3)">
+      <node ref="U401" pin="2"/>
+      <node ref="Q401" pin="3"/>
+    </net>
+    <net code="135" name="Net-(C402-Pad1)">
+      <node ref="Q402" pin="1"/>
+      <node ref="R404" pin="1"/>
+      <node ref="C402" pin="1"/>
+      <node ref="R406" pin="2"/>
+    </net>
+    <net code="136" name="Net-(R404-Pad2)">
+      <node ref="R404" pin="2"/>
+      <node ref="U401" pin="3"/>
+    </net>
+    <net code="137" name="Net-(D401-Pad2)">
+      <node ref="D401" pin="2"/>
+      <node ref="R405" pin="2"/>
+    </net>
+    <net code="138" name="Net-(C401-Pad1)">
+      <node ref="Q401" pin="1"/>
+      <node ref="R402" pin="1"/>
+      <node ref="C401" pin="1"/>
+      <node ref="R401" pin="1"/>
+    </net>
+    <net code="139" name="Net-(R509-Pad2)">
+      <node ref="R509" pin="2"/>
+      <node ref="R510" pin="1"/>
+    </net>
+    <net code="140" name="Net-(R507-Pad2)">
+      <node ref="R508" pin="1"/>
+      <node ref="R507" pin="2"/>
+    </net>
+    <net code="141" name="Net-(D501-Pad1)">
+      <node ref="R508" pin="2"/>
+      <node ref="R510" pin="2"/>
+      <node ref="D501" pin="1"/>
+      <node ref="Q502" pin="3"/>
+    </net>
+    <net code="142" name="Net-(R503-Pad2)">
+      <node ref="U501" pin="1"/>
+      <node ref="R503" pin="2"/>
+    </net>
+    <net code="143" name="Net-(Q501-Pad3)">
+      <node ref="Q501" pin="3"/>
+      <node ref="U501" pin="2"/>
+    </net>
+    <net code="144" name="Net-(C502-Pad1)">
+      <node ref="C502" pin="1"/>
+      <node ref="R504" pin="1"/>
+      <node ref="R506" pin="2"/>
+      <node ref="Q502" pin="1"/>
+    </net>
+    <net code="145" name="Net-(R504-Pad2)">
+      <node ref="R504" pin="2"/>
+      <node ref="U501" pin="3"/>
+    </net>
+    <net code="146" name="Net-(D501-Pad2)">
+      <node ref="D501" pin="2"/>
+      <node ref="R505" pin="2"/>
+    </net>
+    <net code="147" name="Net-(C501-Pad1)">
+      <node ref="C501" pin="1"/>
+      <node ref="R501" pin="1"/>
+      <node ref="R502" pin="1"/>
+      <node ref="Q501" pin="1"/>
+    </net>
+    <net code="148" name="Net-(R607-Pad2)">
+      <node ref="R607" pin="2"/>
+      <node ref="R608" pin="1"/>
+    </net>
+    <net code="149" name="Net-(D601-Pad1)">
+      <node ref="D601" pin="1"/>
+      <node ref="Q602" pin="3"/>
+      <node ref="R608" pin="2"/>
+      <node ref="R610" pin="2"/>
+    </net>
+    <net code="150" name="Net-(R609-Pad2)">
+      <node ref="R610" pin="1"/>
+      <node ref="R609" pin="2"/>
+    </net>
+    <net code="151" name="Net-(Q601-Pad3)">
+      <node ref="U601" pin="2"/>
+      <node ref="Q601" pin="3"/>
+    </net>
+    <net code="152" name="Net-(R603-Pad2)">
+      <node ref="U601" pin="1"/>
+      <node ref="R603" pin="2"/>
+    </net>
+    <net code="153" name="Net-(C602-Pad1)">
+      <node ref="C602" pin="1"/>
+      <node ref="R606" pin="2"/>
+      <node ref="Q602" pin="1"/>
+      <node ref="R604" pin="1"/>
+    </net>
+    <net code="154" name="Net-(R604-Pad2)">
+      <node ref="R604" pin="2"/>
+      <node ref="U601" pin="3"/>
+    </net>
+    <net code="155" name="Net-(D601-Pad2)">
+      <node ref="R605" pin="2"/>
+      <node ref="D601" pin="2"/>
+    </net>
+    <net code="156" name="Net-(C601-Pad1)">
+      <node ref="Q601" pin="1"/>
+      <node ref="R602" pin="1"/>
+      <node ref="C601" pin="1"/>
+      <node ref="R601" pin="1"/>
+    </net>
+    <net code="157" name="Net-(Q701-Pad3)">
+      <node ref="U701" pin="2"/>
+      <node ref="Q701" pin="3"/>
+    </net>
+    <net code="158" name="Net-(C701-Pad1)">
+      <node ref="Q701" pin="1"/>
+      <node ref="C701" pin="1"/>
+      <node ref="R702" pin="1"/>
+      <node ref="R701" pin="1"/>
+    </net>
+    <net code="159" name="Net-(C702-Pad1)">
+      <node ref="Q702" pin="1"/>
+      <node ref="R704" pin="1"/>
+      <node ref="R706" pin="2"/>
+      <node ref="C702" pin="1"/>
+    </net>
+    <net code="160" name="Net-(D701-Pad2)">
+      <node ref="R705" pin="2"/>
+      <node ref="D701" pin="2"/>
+    </net>
+    <net code="161" name="Net-(R704-Pad2)">
+      <node ref="R704" pin="2"/>
+      <node ref="U701" pin="3"/>
+    </net>
+    <net code="162" name="Net-(R703-Pad2)">
+      <node ref="R703" pin="2"/>
+      <node ref="U701" pin="1"/>
+    </net>
+    <net code="163" name="Net-(R709-Pad2)">
+      <node ref="R710" pin="1"/>
+      <node ref="R709" pin="2"/>
+    </net>
+    <net code="164" name="Net-(D701-Pad1)">
+      <node ref="R708" pin="2"/>
+      <node ref="Q702" pin="3"/>
+      <node ref="D701" pin="1"/>
+      <node ref="R710" pin="2"/>
+    </net>
+    <net code="165" name="Net-(R707-Pad2)">
+      <node ref="R708" pin="1"/>
+      <node ref="R707" pin="2"/>
+    </net>
+    <net code="166" name="Net-(R809-Pad2)">
+      <node ref="R810" pin="1"/>
+      <node ref="R809" pin="2"/>
+    </net>
+    <net code="167" name="Net-(D801-Pad1)">
+      <node ref="D801" pin="1"/>
+      <node ref="Q802" pin="3"/>
+      <node ref="R810" pin="2"/>
+      <node ref="R808" pin="2"/>
+    </net>
+    <net code="168" name="Net-(R807-Pad2)">
+      <node ref="R807" pin="2"/>
+      <node ref="R808" pin="1"/>
+    </net>
+    <net code="169" name="Net-(Q801-Pad3)">
+      <node ref="Q801" pin="3"/>
+      <node ref="U801" pin="2"/>
+    </net>
+    <net code="170" name="Net-(R803-Pad2)">
+      <node ref="R803" pin="2"/>
+      <node ref="U801" pin="1"/>
+    </net>
+    <net code="171" name="Net-(C802-Pad1)">
+      <node ref="R806" pin="2"/>
+      <node ref="Q802" pin="1"/>
+      <node ref="C802" pin="1"/>
+      <node ref="R804" pin="1"/>
+    </net>
+    <net code="172" name="Net-(R804-Pad2)">
+      <node ref="R804" pin="2"/>
+      <node ref="U801" pin="3"/>
+    </net>
+    <net code="173" name="Net-(D801-Pad2)">
+      <node ref="D801" pin="2"/>
+      <node ref="R805" pin="2"/>
+    </net>
+    <net code="174" name="Net-(C801-Pad1)">
+      <node ref="R802" pin="1"/>
+      <node ref="C801" pin="1"/>
+      <node ref="Q801" pin="1"/>
+      <node ref="R801" pin="1"/>
+    </net>
+    <net code="175" name="Net-(R909-Pad2)">
+      <node ref="R910" pin="1"/>
+      <node ref="R909" pin="2"/>
+    </net>
+    <net code="176" name="Net-(D901-Pad1)">
+      <node ref="R910" pin="2"/>
+      <node ref="Q902" pin="3"/>
+      <node ref="D901" pin="1"/>
+      <node ref="R908" pin="2"/>
+    </net>
+    <net code="177" name="Net-(R907-Pad2)">
+      <node ref="R907" pin="2"/>
+      <node ref="R908" pin="1"/>
+    </net>
+    <net code="178" name="Net-(Q901-Pad3)">
+      <node ref="U901" pin="2"/>
+      <node ref="Q901" pin="3"/>
+    </net>
+    <net code="179" name="Net-(R903-Pad2)">
+      <node ref="U901" pin="1"/>
+      <node ref="R903" pin="2"/>
+    </net>
+    <net code="180" name="Net-(C902-Pad1)">
+      <node ref="C902" pin="1"/>
+      <node ref="R904" pin="1"/>
+      <node ref="Q902" pin="1"/>
+      <node ref="R906" pin="2"/>
+    </net>
+    <net code="181" name="Net-(R904-Pad2)">
+      <node ref="U901" pin="3"/>
+      <node ref="R904" pin="2"/>
+    </net>
+    <net code="182" name="Net-(D901-Pad2)">
+      <node ref="R905" pin="2"/>
+      <node ref="D901" pin="2"/>
+    </net>
+    <net code="183" name="Net-(C901-Pad1)">
+      <node ref="R901" pin="1"/>
+      <node ref="C901" pin="1"/>
+      <node ref="R902" pin="1"/>
+      <node ref="Q901" pin="1"/>
+    </net>
+    <net code="184" name="Net-(R1009-Pad2)">
+      <node ref="R1010" pin="1"/>
+      <node ref="R1009" pin="2"/>
+    </net>
+    <net code="185" name="Net-(D1001-Pad1)">
+      <node ref="Q1002" pin="3"/>
+      <node ref="D1001" pin="1"/>
+      <node ref="R1010" pin="2"/>
+      <node ref="R1008" pin="2"/>
+    </net>
+    <net code="186" name="Net-(R1007-Pad2)">
+      <node ref="R1008" pin="1"/>
+      <node ref="R1007" pin="2"/>
+    </net>
+    <net code="187" name="Net-(Q1001-Pad3)">
+      <node ref="Q1001" pin="3"/>
+      <node ref="U1001" pin="2"/>
+    </net>
+    <net code="188" name="Net-(R1003-Pad2)">
+      <node ref="U1001" pin="1"/>
+      <node ref="R1003" pin="2"/>
+    </net>
+    <net code="189" name="Net-(C1002-Pad1)">
+      <node ref="R1006" pin="2"/>
+      <node ref="R1004" pin="1"/>
+      <node ref="Q1002" pin="1"/>
+      <node ref="C1002" pin="1"/>
+    </net>
+    <net code="190" name="Net-(R1004-Pad2)">
+      <node ref="R1004" pin="2"/>
+      <node ref="U1001" pin="3"/>
+    </net>
+    <net code="191" name="Net-(D1001-Pad2)">
+      <node ref="R1005" pin="2"/>
+      <node ref="D1001" pin="2"/>
+    </net>
+    <net code="192" name="Net-(C1001-Pad1)">
+      <node ref="R1001" pin="1"/>
+      <node ref="R1002" pin="1"/>
+      <node ref="Q1001" pin="1"/>
+      <node ref="C1001" pin="1"/>
+    </net>
+    <net code="193" name="Net-(R1109-Pad2)">
+      <node ref="R1109" pin="2"/>
+      <node ref="R1110" pin="1"/>
+    </net>
+    <net code="194" name="Net-(D1101-Pad1)">
+      <node ref="R1110" pin="2"/>
+      <node ref="R1108" pin="2"/>
+      <node ref="D1101" pin="1"/>
+      <node ref="Q1102" pin="3"/>
+    </net>
+    <net code="195" name="Net-(R1107-Pad2)">
+      <node ref="R1107" pin="2"/>
+      <node ref="R1108" pin="1"/>
+    </net>
+    <net code="196" name="Net-(Q1101-Pad3)">
+      <node ref="Q1101" pin="3"/>
+      <node ref="U1101" pin="2"/>
+    </net>
+    <net code="197" name="Net-(R1103-Pad2)">
+      <node ref="R1103" pin="2"/>
+      <node ref="U1101" pin="1"/>
+    </net>
+    <net code="198" name="Net-(C1102-Pad1)">
+      <node ref="C1102" pin="1"/>
+      <node ref="R1106" pin="2"/>
+      <node ref="Q1102" pin="1"/>
+      <node ref="R1104" pin="1"/>
+    </net>
+    <net code="199" name="Net-(R1104-Pad2)">
+      <node ref="R1104" pin="2"/>
+      <node ref="U1101" pin="3"/>
+    </net>
+    <net code="200" name="Net-(D1101-Pad2)">
+      <node ref="D1101" pin="2"/>
+      <node ref="R1105" pin="2"/>
+    </net>
+    <net code="201" name="Net-(C1101-Pad1)">
+      <node ref="C1101" pin="1"/>
+      <node ref="R1102" pin="1"/>
+      <node ref="R1101" pin="1"/>
+      <node ref="Q1101" pin="1"/>
+    </net>
+  </nets>
+</export>

@@ -6,6 +6,10 @@ I was a bit annoyed with the Chinese BMS's that you don't have any feedback on t
 
 So I came up with the idea to design myself a BMS. The goal is to use simple components (also with the chip delivery problems in mind) except for the microcontroller/Soc. It's a compromise between functionality, costs, availability, simplicity.
 
+Design choice's I will discuss later.
+
+At the moment I'm busy with the software.
+
 ![This is an image](https://github.com/GatzeTech/GatzBMS-nRF/blob/main/image_front.png)
 
 ![This is an image](https://github.com/GatzeTech/GatzBMS-nRF/blob/main/image_back.png)
